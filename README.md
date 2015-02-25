@@ -38,7 +38,7 @@ googleplaygame.auth();
 You should provde the option for users to sign out
 
 ```
-googleplaygame.signout();
+googleplaygame.signOut();
 ```
 
 #### Auth status
